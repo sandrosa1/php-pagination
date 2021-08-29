@@ -3,16 +3,21 @@
 Uma biblioteca para paginação com msqly
 
 
-### Requer
-Biblioteca de gerenciamento de banco de dados
 
-```Shell
-composer require sandro/php-database-manager
-```
 
 ## Utilização
 
 Para usar está biblioteca basta seguir os exemplos abaixo:
+
+##### Requer
+Biblioteca de gerenciamento de banco de dados
+
+```Shell
+composer require sandro/php-database-manager
+
+composer require sandro/php-pagination
+
+```
 
 
 ```php
